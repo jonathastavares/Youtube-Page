@@ -10,3 +10,35 @@
 .list {
     list-style-type: none;
 }
+/*Start of Navigation bar CSS*/
+.navbar {
+    overflow: hidden;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.logo-scl {
+    width: 25%;
+}
+
+.content-scaling {
+    width: 35%;
+}
+
+.searchbar-scaling {
+    position: relative;
+    width: 80%;
+    margin-left: -5px;
+}
+
+.searchbutton-scaling {
+    width: 10%;
+    border-left: 0;
+    margin-left: -5px;
+}
+/*End of Navigation bar CSS*/
+
