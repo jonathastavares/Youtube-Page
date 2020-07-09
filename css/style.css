@@ -42,3 +42,55 @@
 }
 /*End of Navigation bar CSS*/
 
+/*Start of the Main Page CSS*/
+.main-page {
+    display: flex;
+    margin: 15px;
+    height: auto;
+}
+
+.main-page-size {
+    flex: 4;
+}
+
+.video-scl {
+    width: 100%;
+    height: 100%;
+}
+
+.video-player {
+    justify-content: flex-end;
+    height: 720px;
+}
+
+.like-dislike-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+#like-button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#dislike-button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.video-description {
+    display: flex;
+
+}
+
+#avatar {
+    margin-right: 10px;
+}
+
+.subscribe-button {
+    display: flex;
+    flex: 4;
+    justify-content: flex-end;
+}
+
+/*End of the Main Page CSS*/
