@@ -14,6 +14,10 @@ Additional description about the project and its features.
 - CSS
 - Flexbox
 
+## Live Demo
+
+[Live Demo Link](http://jonathastavares.github.io/Youtube-Page)
+
 ## Authors
 
 👤 **Jonathas Tavares**
@@ -37,12 +41,6 @@ Feel free to check the [issues page](https://github.com/jonathastavares/Youtube-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
