@@ -16,20 +16,20 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](http://jonathastavares.github.io/Youtube-Page)
+[Live Demo Link](http://jonathastavares.github.io/Youtube-Page/tree/Developer)
 
 ## Authors
 
 👤 **Jonathas Tavares**
 
-- Github: [@githubhandle](https://github.com/jonathastavares)
-- Twitter: [@twitterhandle](https://twitter.com/jhstavares)
+- Github: [@jonathastavares](https://github.com/jonathastavares)
+- Twitter: [@jhstavares](https://twitter.com/jhstavares)
 - Linkedin: [linkedin](https://www.linkedin.com/in/jonathas-tavares-24b8bba3/)
 
 👤 **Bbosa Muhamood**
 
-- Github: [@githubhandle](https://github.com/bmuhamood)
-- Twitter: [@twitterhandle](https://twitter.com/croixtechfirm)
+- Github: [@bmuhamood](https://github.com/bmuhamood)
+- Twitter: [@croixtechfirm](https://twitter.com/croixtechfirm)
 - Linkedin: [linkedin](https://www.linkedin.com/in/bbosa-muhamood-06845576/)
 
 ## 🤝 Contributing
