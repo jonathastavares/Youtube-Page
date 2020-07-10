@@ -131,6 +131,7 @@ font-size: 20px;
 border: none;
 padding: 10px 10px;
 margin-top: 10px;
+cursor: pointer;
 }
 .btn-share{
     background: grey;
@@ -138,6 +139,7 @@ margin-top: 10px;
     font-size: 15px;
     border: none;
     padding: 5px 5px;
+    cursor: pointer;
 }
 /*End of the Main Page CSS*/
 /*Start of Related Video Section*/
