@@ -89,6 +89,21 @@
     justify-content: flex-end;
 }
 
+.rounded-image{
+    border-radius: 50%;
+}
+.btn-subscribe{
+background: red;
+color: white;
+width: 20px;
+height: 20px;
+}
+.btn-share{
+    background: grey;
+    color: white;
+    width: 20px;
+    height: 20px;  
+}
 /*End of the Main Page CSS*/
 /*Start of Related Video Section*/
 .related-videos {
