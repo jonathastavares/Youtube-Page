@@ -99,8 +99,7 @@ p {
     justify-content: space-between;
 }
 
-.like-button,
-.dislike-button {
+.like-button{
     margin-top: 10px;
     margin-right: 10px;
 }
