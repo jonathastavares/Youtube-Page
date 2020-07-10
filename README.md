@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](http://jonathastavares.github.io/Youtube-Page/tree/Developer)
+[Live Demo Link](http://jonathastavares.github.io/Youtube-Page)
 
 ## Authors
 
