@@ -68,12 +68,8 @@
     justify-content: space-between;
 }
 
-#like-button {
-    margin-top: 10px;
-    margin-right: 10px;
-}
-
-#dislike-button {
+.like-button,
+.dislike-button {
     margin-top: 10px;
     margin-right: 10px;
 }
