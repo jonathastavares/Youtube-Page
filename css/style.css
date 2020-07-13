@@ -48,12 +48,10 @@ p {
 
 .searchbox {
     width: 35%;
-    float: center;
     align-self: center;
 }
 
 .sidelinks {
-    float: right;
     align-self: center;
     margin-right: 10px;
 }
