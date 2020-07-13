@@ -32,9 +32,9 @@ p {
 }
 
 .logo-scl {
-    width: 25%;
     margin-left: 10px;
     align-self: center;
+    height: 30px;
 }
 
 .logo {
@@ -58,7 +58,7 @@ p {
 
 .searchbar-scaling {
     position: relative;
-    width: 80%;
+    width: 85%;
     font-size: 20px;
 }
 
